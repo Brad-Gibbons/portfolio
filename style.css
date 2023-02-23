@@ -1,0 +1,28 @@
+:root {
+    --darkBlue: #202D3E;
+    --blue: #1FA2F9;
+    --lightBlue: #C1E1F8;
+}
+
+#bg-logo {
+    width: 100%;  
+    margin-right: 70px;
+}
+body {
+    font-family: serif;
+    font-weight: 400;
+}
+#bio {
+    padding: 10px;
+    margin-top: -30px;
+    text-align: justify;
+}
+.icons {
+    color: var(--darkBlue);
+    font-size: 40px;
+    display: flex;
+   justify-content: left;
+  }
+i {
+    padding: 15px;
+}
